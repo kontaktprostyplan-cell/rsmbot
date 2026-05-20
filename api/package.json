@@ -1,0 +1,9 @@
+{
+  "name": "rsmbot",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
