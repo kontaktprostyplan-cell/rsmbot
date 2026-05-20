@@ -12,20 +12,11 @@ export default async function handler(req, res) {
     const body = req.body;
     console.log("EasyTools webhook:", JSON.stringify(body));
 
-    const email =
-      body?.email ||
-      body?.customer?.email ||
-      body?.order?.email ||
-      body?.buyer_email;
-
-    const imie =
-      body?.name ||
-      body?.customer?.name ||
-      body?.first_name ||
-      body?.buyer_name ||
-      "";
+    const email = body?.customer_email;
+    const imie = body?.customer_first_name || body?.customer_name || "";
 
     if (!email) {
+      console.log("Brak emaila w body:", JSON.stringify(body));
       return res.status(400).json({ error: "No email found" });
     }
 
