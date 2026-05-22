@@ -31,111 +31,94 @@ Zbieraj dane jedno pytanie na raz w tej kolejności:
 7. Jaki jest mechanizm Twojego rozwiązania?
 8. Jakie słowo kluczowe ma wpisać odbiorca w komentarzu?
 
-🧠 KROK 1: ANALIZA KLIENTKI
-Tylko analiza, bez hooków. Wypisz:
-* 7-10 przekonań które ją blokują (konkretne, z życia wzięte)
-* 7-10 pragnień (konkretne efekty, nie ogólniki)
-* 5-7 konfliktów: co robi vs czego chce
-* JĘZYK KLIENTKI: 5-7 zdań które ona sama mówi w głowie lub koleżankom
-Zakończ: "Analiza gotowa. Napisz HOOKI żeby wygenerować 30 hooków."
+KROK 1: ANALIZA KLIENTKI
+Tylko analiza, bez hookow. Wypisz:
+* 7-10 przekonan ktore ja blokuja (konkretne, z zycia wziete)
+* 7-10 pragnen (konkretne efekty, nie ogolniki)
+* 5-7 konfliktow: co robi vs czego chce
+* JEZYK KLIENTKI: 5-7 zdan ktore ona sama mowi w glowie lub kolezankom
+Zakoncz: "Analiza gotowa. Napisz HOOKI zeby wygenerowac 30 hookow."
 
-💣 KROK 2: 30 HOOKÓW
-Na komendę HOOKI wygeneruj 30 hooków.
-Na WIĘCEJ — kolejne 30. Na ZAMIEŃ + numery — zamień wybrane.
+KROK 2: 30 HOOKOW
+Na komende HOOKI wygeneruj 30 hookow.
+Na WIECEJ — kolejne 30. Na ZAMIEN + numery — zamien wybrane.
 
-Każdy hook = łuk narracyjny:
-UTOŻSAMIENIE → DYSONANS → CIEKAWOŚĆ → PRZEBŁYSK ROZWIĄZANIA
+Kazdy hook = luk narracyjny:
+UTOZSANIENIE -> DYSONANS -> CIEKAWOSC -> PRZEBLYSK ROZWIAZANIA
 
-STRUKTURA każdego hooka:
-1. HIPERSPECYFICZNE UTOŻSAMIENIE — konkretna sytuacja z życia
-2. DYSONANS — "to co robisz ma sens — ale właśnie dlatego nie działa"
-3. NIEDOPOWIEDZIANA ODPOWIEDŹ — otwarta pętla
-4. PRZEBŁYSK LOW TICKET — proste, szybkie, dostępne rozwiązanie
+STRUKTURA kazdego hooka:
+1. HIPERSPECYFICZNE UTOZSANIENIE — konkretna sytuacja z zycia
+2. DYSONANS — "to co robisz ma sens — ale wlasnie dlatego nie dziala"
+3. NIEDOPOWIEDZIANA ODPOWIEDZ — otwarta petla
+4. PRZEBLYSK LOW TICKET — proste, szybkie, dostepne rozwiazanie
 
-Hook = 1 myśl rozbita na 2 linie:
-Linia 1 = główna teza + sytuacja/efekt
-Linia 2 = konkretny kontekst który sprawia że odbiorca mówi "to dokładnie o mnie"
-Linia 2 NIE może być osobnym zdaniem bez związku z linią 1.
+Hook = 1 mysl rozbita na 2 linie:
+Linia 1 = glowna teza + sytuacja/efekt
+Linia 2 = konkretny kontekst ktory sprawia ze odbiorca mowi "to dokladnie o mnie"
+Linia 2 NIE moze byc osobnym zdaniem bez zwiazku z linia 1.
 
-SPECIFICITY UPGRADE — obowiązkowe:
-❌ "nie ćwiczysz regularnie" → ✅ "kupiłaś matę 8 miesięcy temu i leży w szafie"
-❌ "chcesz schudnąć" → ✅ "chcesz założyć te jeansy przed wakacjami w lipcu"
-❌ "nie zarabiasz na IG" → ✅ "wrzuciłaś 47 rolek i masz 0 zapytań w DM"
+SPECIFICITY UPGRADE — obowiazkowe:
+"nie cwiczysz regularnie" -> "kupilasz mate 8 miesiecy temu i lezy w szafie"
+"chcesz schudnac" -> "chcesz zalozyc te jeansy przed wakacjami w lipcu"
+"nie zarabiasz na IG" -> "wrzucilasz 47 rolek i masz 0 zapytan w DM"
 
-PSYCHOLOGICZNE DŹWIGNIE — użyj min. jednej na hook:
-* CURIOSITY GAP — otwarta pętla, sekret, niedokończona informacja
-* BÓL, ZAGROŻENIE, STRATA
-* PATTERN INTERRUPT — coś nieoczekiwanego
-* ROZPOZNANIE SIEBIE — bezpośrednie zawołanie konkretnej sytuacji
-* FOMO / SPOŁECZNY DOWÓD
-* KONKRETNY REZULTAT + OBIETNICA
+CONTROVERSY UPGRADE — kazdy hook musi zawierac przynajmniej jeden:
+* uderzenie w ego: "cwiczysz od roku i waga stoi w miejscu"
+* podwazenie wysylku: "robisz to co wszyscy mowia i wlasnie dlatego nie chudniesz"
+* pokazanie absurdu: "kupilasz sprzet za 500 zl i lezy nieuzywany"
+* kontrast ktory boli: "robisz X i masz 0 efektow"
+* niewygodna prawda ktorej nikt jej nie mowi
 
-CONTROVERSY UPGRADE — każdy hook musi zawierać przynajmniej jeden:
-* uderzenie w ego: "ćwiczysz od roku i waga stoi w miejscu"
-* podważenie wysiłku: "robisz to co wszyscy mówią — i właśnie dlatego nie chudniesz"
-* pokazanie absurdu: "kupiłaś sprzęt za 500 zł i leży nieużywany"
-* kontrast który boli: "robisz X → masz 0 efektów"
-* niewygodna prawda której nikt jej nie mówi
+Hook ma wywolac: "to dokladnie o mnie"
 
-Hook ma wywołać: "k*rwa... to dokładnie o mnie"
-Zakończenia które bolą — używaj:
-"...i waga nadal stoi od 3 miesięcy"
-"...i jeansy nadal nie wchodzą"
-"...i nikt Ci tego nie powie"
-"...i właśnie to Cię blokuje"
-"...i tracisz na to kolejne miesiące"
-"...i przez to zaczynasz od nowa co poniedziałek"
-
-7 WZORÓW (każdy użyty min. raz):
-1. CURIOSITY GAP: konkretna sytuacja → zaskakujące wyjaśnienie → otwarta pętla
-2. PATTERN INTERRUPT: zdanie odwrotne niż nisza
-3. CONTRARIAN: "Wszyscy mówią X, ja zrobiłam Y i [efekt]"
-4. QUESTION HOOK: pytanie które boli + efekt który to powoduje
-5. MISTAKE HOOK: "Przestań robić X" + brakujący efekt
-6. NUMBERED LIST: "[liczba] powodów, nr [X] dotyczy każdej"
+7 WZOROW (kazdy uzyty min. raz):
+1. CURIOSITY GAP: konkretna sytuacja -> zaskakujace wyjasnienie -> otwarta petla
+2. PATTERN INTERRUPT: zdanie odwrotne niz nisza
+3. CONTRARIAN: "Wszyscy mowia X, ja zrobilam Y i efekt"
+4. QUESTION HOOK: pytanie ktore boli + efekt ktory to powoduje
+5. MISTAKE HOOK: "Przestan robic X" + brakujacy efekt
+6. NUMBERED LIST: "[liczba] powodow, nr [X] dotyczy kazdej"
 7. TRANSFORMACJA: "Z [start] do [efekt] w [czas]"
 
-JĘZYK — ABSOLUTNA ZASADA:
-Powiedz każdy hook na głos jak do koleżanki przy kawie. Jeśli brzmi dziwnie — przepisz.
-Zero kalek z angielskiego, zero sloganów, zero abstrakcji.
+JEZYK — ABSOLUTNA ZASADA:
+Powiedz kazdy hook na glos jak do kolezanki przy kawie. Jesli brzmi dziwnie — przepisz.
+Zero kalek z angielskiego, zero sloganow, zero abstrakcji.
 
-Po 30 hookach zakończ DOKŁADNIE: "Gotowe! Masz 30 hooków do wyboru."
-Po zamianie zakończ DOKŁADNIE: "Gotowe! Hooki zamienione."
-NIE zadawaj pytań po hookach.
+Po 30 hookach zakoncz DOKLADNIE: "Gotowe! Masz 30 hookow do wyboru."
+Po zamianie zakoncz DOKLADNIE: "Gotowe! Hooki zamienione."
+NIE zadawaj pytan po hookach.
 
-🎬 KROK 3: PLAN 30 DNI
-Na komendę PLAN wygeneruj plan 30 dni, po 10 dni na raz.
-Użyj PEŁNEGO hooka — obie linie dokładnie jak wygenerowane.
+KROK 3: PLAN 30 DNI
+Na komende PLAN wygeneruj plan 30 dni, po 10 dni na raz.
+Uzyj PELNEGO hooka — obie linie dokladnie jak wygenerowane.
 
 FORMAT:
-━━━━━━━━━━━━━━━━━━━━━━
-DZIEŃ [X]
+DZIEN [X]
 
 ROLKA:
 [linia 1 hooka]
 [linia 2 hooka]
 
 OPIS:
-[ZDANIE 1: ból/napięcie — konkretna sytuacja]
+[ZDANIE 1: bol/napiecie — konkretna sytuacja]
 
 [ZDANIE 2: diagnoza — "to nie Twoja wina, brakuje Ci tylko X"]
 
-[ZDANIE 3: future pacing — wyobraź sobie siebie za 8 tygodni]
+[ZDANIE 3: future pacing — wyobraz sobie siebie za 8 tygodni]
 
-[ZDANIE 4: jak to osiągnąć — konkretna scena, usuwa główną obiekcję]
+[ZDANIE 4: jak to osiagnac — konkretna scena, usuwa glowna obiekcje]
 
-Napisz [SŁOWO KLUCZOWE] w komentarzu, wyślę Ci dostęp
+Napisz [SLOWO KLUCZOWE] w komentarzu, wysle Ci dostep
 
 HASHTAGI:
 #hashtag1 #hashtag2 #hashtag3 #hashtag4 #hashtag5
-━━━━━━━━━━━━━━━━━━━━━━
 
-ZASADY: zero półpauz, naturalna polszczyzna, każde zdanie osobny akapit.`;
+ZASADY: zero polpauzy, naturalna polszczyzna, kazde zdanie osobny akapit.`;
 
 const MAIN_KEYBOARD = {
   keyboard: [
     [{ text: "HOOKI" }, { text: "PLAN" }],
-    [{ text: "WIĘCEJ" }, { text: "/reset" }],
+    [{ text: "WIECEJ" }, { text: "/reset" }],
   ],
   resize_keyboard: true,
   persistent: true,
@@ -145,16 +128,20 @@ async function sendMessage(chatId, text, keyboard = null) {
   const body = {
     chat_id: chatId,
     text: text,
-    parse_mode: "Markdown",
   };
   if (keyboard) {
     body.reply_markup = JSON.stringify(keyboard);
   }
-  await fetch(`${TELEGRAM_API}/sendMessage`, {
+  const response = await fetch(`${TELEGRAM_API}/sendMessage`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify(body),
   });
+  const data = await response.json();
+  if (!data.ok) {
+    console.error("Telegram error:", JSON.stringify(data));
+  }
+  return data;
 }
 
 async function getHistory(chatId) {
@@ -230,7 +217,7 @@ export default async function handler(req, res) {
       await supabase.from("historia").delete().eq("chat_id", String(chatId));
       await sendMessage(
         chatId,
-        "Rozmowa zresetowana. Napisz /start żeby zacząć od nowa.",
+        "Rozmowa zresetowana. Napisz /start zeby zaczac od nowa.",
         MAIN_KEYBOARD
       );
       return res.status(200).json({ ok: true });
@@ -242,18 +229,16 @@ export default async function handler(req, res) {
       if (!user?.aktywna) {
         const hist = await getHistory(chatId);
         const isAskingForEmail = hist.some(
-          (h) =>
-            h.rola === "assistant" && h.wiadomosc.includes("email")
+          (h) => h.rola === "assistant" && h.wiadomosc.includes("email")
         );
         if (!isAskingForEmail) {
           await sendMessage(
             chatId,
-            "Hej! Nie znalazłam Twojego zakupu 🔍\n\nPodaj mi email którego użyłaś przy zakupie, zweryfikuję dostęp:"
+            "Hej! Nie znalazlam Twojego zakupu.\n\nPodaj mi email ktorego uzylas przy zakupie, zweryfikuje dostep:"
           );
           return res.status(200).json({ ok: true });
         }
-        const emailRegex =
-          /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/;
+        const emailRegex = /[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}/;
         const emailMatch = text.match(emailRegex);
         if (emailMatch) {
           const { data } = await supabase
@@ -268,13 +253,13 @@ export default async function handler(req, res) {
               .eq("email", emailMatch[0]);
             await sendMessage(
               chatId,
-              `Weryfikacja przeszła! Witaj${data.imie ? " " + data.imie : ""} 🔥\n\nMożemy zaczynać. Napisz /start!`,
+              `Weryfikacja przeszla! Witaj${data.imie ? " " + data.imie : ""} :fire:\n\nMozemy zaczynac. Napisz /start!`,
               MAIN_KEYBOARD
             );
           } else {
             await sendMessage(
               chatId,
-              "Nie znalazłam zakupu na ten email 😔\n\nSprawdź czy wpisujesz dokładnie ten sam email co przy zakupie. Problemy? Napisz do mnie na IG."
+              "Nie znalazlam zakupu na ten email.\n\nSprawdz czy wpisujesz dokladnie ten sam email co przy zakupie. Problemy? Napisz do mnie na IG."
             );
           }
           return res.status(200).json({ ok: true });
@@ -282,17 +267,17 @@ export default async function handler(req, res) {
       }
     }
 
-    // Pobierz historię
+    // Pobierz historie
     const history = await getHistory(chatId);
 
-    // Jeśli to /start
+    // Jesli to /start
     if (text === "/start") {
       const user = await getUser(chatId);
       let welcomeMsg;
       if (user?.imie && history.length > 0) {
-        welcomeMsg = `Hej ${user.imie}! Świetnie że wracasz 🔥\n\nMam Twoje dane z poprzedniej sesji. Co chcesz zrobić?\n\n• Napisz o swojej klientce żeby zacząć od nowa\n• Wpisz HOOKI jeśli masz już analizę\n• Wpisz PLAN żeby przejść do planu 30 dni`;
+        welcomeMsg = `Hej ${user.imie}! Swietnie ze wracasz!\n\nMam Twoje dane z poprzedniej sesji. Co chcesz zrobic?\n\nNapisz o swojej klientce zeby zaczac od nowa\nWpisz HOOKI jesli masz juz analize\nWpisz PLAN zeby przejsc do planu 30 dni`;
       } else {
-        welcomeMsg = `Hej! Jestem Magda 🔥\n\nPomogę Ci stworzyć rolki które zatrzymają scroll i będą sprzedawać za Ciebie 24/7.\n\nZanim zaczniemy — podaj mi swoje imię i email (potrzebuję do weryfikacji zakupu):`;
+        welcomeMsg = `Hej! Jestem Magda!\n\nPomoge Ci stworzyc rolki ktore zatrzymaja scroll i beda sprzedawac za Ciebie 24/7.\n\nZanim zaczniemy — podaj mi swoje imie i email (potrzebuje do weryfikacji zakupu):`;
       }
       await saveMessage(chatId, "user", text);
       await saveMessage(chatId, "assistant", welcomeMsg);
@@ -300,7 +285,7 @@ export default async function handler(req, res) {
       return res.status(200).json({ ok: true });
     }
 
-    // Sprawdź czy to imię + email (pierwsze wiadomości)
+    // Sprawdz czy to imie + email (pierwsze wiadomosci)
     if (history.length <= 2) {
       const extracted = extractNameAndEmail(text);
       if (extracted?.email) {
@@ -308,10 +293,10 @@ export default async function handler(req, res) {
       }
     }
 
-    // Zapisz wiadomość usera
+    // Zapisz wiadomosc usera
     await saveMessage(chatId, "user", text);
 
-    // Odśwież historię po zapisie
+    // Odswiez historie po zapisie
     const updatedHistory = await getHistory(chatId);
 
     // Zbuduj messages dla Claude
@@ -320,7 +305,7 @@ export default async function handler(req, res) {
       content: h.wiadomosc,
     }));
 
-    // Wywołaj Claude
+    // Wywolaj Claude
     const response = await anthropic.messages.create({
       model: "claude-sonnet-4-20250514",
       max_tokens: 8000,
@@ -330,14 +315,14 @@ export default async function handler(req, res) {
 
     const reply = response.content[0].text;
 
-    // Zapisz odpowiedź
+    // Zapisz odpowiedz
     await saveMessage(chatId, "assistant", reply);
 
-    // Wyślij na Telegram z klawiaturą
+    // Wyslij na Telegram z klawiatura
     await sendMessage(chatId, reply, MAIN_KEYBOARD);
   } catch (err) {
-    console.error(err);
-    await sendMessage(chatId, "Wystąpił błąd, spróbuj ponownie.");
+    console.error("Handler error:", err);
+    await sendMessage(chatId, "Wystapil blad, sprobuj ponownie.");
   }
 
   return res.status(200).json({ ok: true });
